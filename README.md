@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of miniflar/top-like-givers-widget.** Not for installation: use [Packagist](https://packagist.org/packages/miniflar/top-like-givers-widget) or the [upstream repository](https://github.com/miniflar/top-like-givers-widget).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/miniflar-top-like-givers-widget/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/miniflar-top-like-givers-widget/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-08-14 | `^1.0.0` | [Browse](https://github.com/flarchive/miniflar-top-like-givers-widget/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/miniflar-top-like-givers-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/miniflar-top-like-givers-widget.json)
 
